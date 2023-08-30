@@ -1,9 +1,9 @@
 {
-    "version": 2,
+    "version": 32.1,
     "builds": [
       {
         "src": "index.js",
-        
+
         "use": "@now/node"
       }
     ],
