@@ -8,7 +8,7 @@ const {test, getdocx} = require('../controllers/authControllers');
 router.use(
     cors({
         credentials: true,
-        origin: 'http://localhost:3000'
+        origin: 'https://client-two-rho.vercel.app'
     })
 )
 
